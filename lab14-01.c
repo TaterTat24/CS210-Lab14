@@ -1,6 +1,6 @@
 /** lab14-01.c
 * ===========================================================
-* Name: 
+* Name: Benjamin Tat
 * Section:
 * Project: Lab 14
 * Purpose: Introduction to Pointers

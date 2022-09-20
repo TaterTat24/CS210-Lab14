@@ -1,7 +1,7 @@
 /** lab14functs.h
 * ===========================================================
-* Name: 
-* Section:
+* Name: Benjamin Tat
+* Section: T6
 * Project: Lab 14
 * Purpose: Introduction to Pointers
 * ===========================================================
